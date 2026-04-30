@@ -1,0 +1,11 @@
+# GitHub workflow artifacts
+.github/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Environment files
+.env
+.env.local
+*.env.*
