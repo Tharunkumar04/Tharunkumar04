@@ -1,28 +1,38 @@
-<!-- 🔥 Animated Header -->
+<!-- 🔥 HERO SECTION -->
 
 <h1 align="center">Hi 👋, I'm Tharun Kumar Kollu</h1>
-<h3 align="center">🚀 Software Development Engineer | Backend & Systems</h3>
+<h3 align="center">🚀 Software Development Engineer | Backend & Distributed Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Full+Stack+Developer;System+Design+Enthusiast;Building+Scalable+Systems&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;System+Design+Focused;Building+Scalable+Systems;High+Performance+APIs&center=true&width=520&height=45">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kollutharunkumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:kollutharunkumar04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Tharunkumar04&label=Profile+Views&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 💼 Software Development Engineer at **Algorims**
-* ⚡ 1+ year building **production-grade systems**
-* 🧩 Strong in **backend engineering, APIs, and system design**
-* 📊 Optimized systems → **30% latency reduction**
-* 🚀 Focused on **scalability, performance, and clean architecture**
+* 💼 SDE at **Algorims**
+* ⚙️ Specialized in **Backend Engineering & System Design**
+* 🚀 Built **production-grade APIs & scalable systems**
+* 📉 Reduced API latency by **~30%**
+* 🧩 Strong focus on **clean architecture, performance, and reliability**
 
 ---
 
 ## ⚡ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,nodejs,express,spring,react,redux,postgres,docker,linux,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,express,spring,react,postgres,docker,linux,git&perline=6" />
 </p>
 
 ---
@@ -33,11 +43,11 @@
 
 📅 Apr 2025 – Present
 
-* Owned **end-to-end full-stack development** (React + Node.js + PostgreSQL)
-* Designed secure **RBAC-based REST APIs**
-* Improved performance → **30% faster APIs**
-* Built reusable modules → **25% faster feature delivery**
-* Contributed to **system architecture & deployment workflows**
+* Designed and deployed **RBAC-secured REST APIs**
+* Built scalable backend systems using **Node.js + PostgreSQL**
+* Improved API response times by **30%**
+* Developed reusable modules → **25% faster delivery**
+* Contributed to **system design & deployment pipelines**
 
 ---
 
@@ -45,32 +55,36 @@
 
 ### 🤖 GenAI Assistant
 
-* LLM-powered assistant with **context memory**
-* Optimized pipeline for **low latency responses**
-* Applied **prompt engineering for accuracy**
-
----
+* LLM-powered assistant with **context retention**
+* Optimized for **low latency + high accuracy**
+* Applied advanced **prompt engineering techniques**
 
 ### 🌱 E-Plant Shopping Platform
 
 * Full-stack e-commerce system
-* Designed APIs for **orders, users, products**
-* Handled **authentication + concurrency**
-
----
+* Designed **scalable APIs (orders, users, products)**
+* Implemented **secure authentication & concurrency handling**
 
 ### 📚 Express Book Review System
 
-* Scalable backend with **CRUD + auth**
-* Improved performance via **query optimization**
+* Backend system with **auth + CRUD operations**
+* Improved performance using **query optimization**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharunkumar04&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunkumar04&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharunkumar04&show_icons=true&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunkumar04&layout=compact&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tharunkumar04&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -78,7 +92,10 @@
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Tharunkumar04/Tharunkumar04/blob/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharunkumar04/Tharunkumar04/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Tharunkumar04/Tharunkumar04/gh-pages/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -93,23 +110,19 @@
 
 ## 🎯 Current Focus
 
-* Scalable backend systems
-* Distributed architecture
-* High-performance APIs
+* Distributed Systems
+* High-performance backend architectures
+* Scalability & reliability engineering
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Key Strengths
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kollutharunkumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Tharun-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kollutharunkumar04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+* System Design Thinking
+* Performance Optimization
+* Clean Code & Maintainability
+* API Design & Security
 
 ---
 
-⭐ **Building scalable systems. Not just projects.**
+⭐ **Building scalable systems — not just projects.**
