@@ -1,10 +1,10 @@
-<!-- 🔥 HERO SECTION -->
+<!-- 🔥 HERO -->
 
 <h1 align="center">Hi 👋, I'm Tharun Kumar Kollu</h1>
 <h3 align="center">🚀 Software Development Engineer | Backend & Distributed Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;System+Design+Focused;Building+Scalable+Systems;High+Performance+APIs&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Distributed+Systems;High+Performance+APIs;Scalable+Architecture&center=true&width=520&height=45">
 </p>
 
 <p align="center">
@@ -21,11 +21,11 @@
 
 ## 🧠 About Me
 
-* 💼 SDE at **Algorims**
-* ⚙️ Specialized in **Backend Engineering & System Design**
-* 🚀 Built **production-grade APIs & scalable systems**
-* 📉 Reduced API latency by **~30%**
-* 🧩 Strong focus on **clean architecture, performance, and reliability**
+* 💼 Software Development Engineer at **Algorims**
+* ⚙️ Backend-focused: APIs, system design, performance
+* 📉 Improved system latency by **~30%**
+* 🚀 Built **scalable production-grade systems**
+* 🧩 Strong in **clean architecture & reliability engineering**
 
 ---
 
@@ -43,40 +43,40 @@
 
 📅 Apr 2025 – Present
 
-* Designed and deployed **RBAC-secured REST APIs**
-* Built scalable backend systems using **Node.js + PostgreSQL**
-* Improved API response times by **30%**
-* Developed reusable modules → **25% faster delivery**
-* Contributed to **system design & deployment pipelines**
+* Designed **RBAC-secured REST APIs**
+* Built scalable systems using **Node.js + PostgreSQL**
+* Improved API performance by **30%**
+* Reduced development time by **25% via reusable modules**
+* Contributed to **system architecture & deployments**
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Work
 
 ### 🤖 GenAI Assistant
 
-* LLM-powered assistant with **context retention**
-* Optimized for **low latency + high accuracy**
-* Applied advanced **prompt engineering techniques**
+* LLM-based assistant with **context memory**
+* Optimized for **low-latency responses**
+* Applied **advanced prompt engineering**
 
-### 🌱 E-Plant Shopping Platform
+### 🌱 E-Plant Platform
 
-* Full-stack e-commerce system
-* Designed **scalable APIs (orders, users, products)**
-* Implemented **secure authentication & concurrency handling**
+* Full-stack commerce system
+* Designed **scalable backend APIs**
+* Implemented **auth + concurrency handling**
 
-### 📚 Express Book Review System
+### 📚 Book Review API
 
-* Backend system with **auth + CRUD operations**
-* Improved performance using **query optimization**
+* REST backend with **auth + CRUD**
+* Improved performance via **query optimization**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tharunkumar04&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharunkumar04&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tharunkumar04&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tharunkumar04&theme=radical" />
 </p>
 
 ---
@@ -116,12 +116,12 @@
 
 ---
 
-## 🏆 Key Strengths
+## 🏆 Core Strengths
 
-* System Design Thinking
+* System Design & Architecture
 * Performance Optimization
-* Clean Code & Maintainability
 * API Design & Security
+* Clean, Maintainable Code
 
 ---
 
